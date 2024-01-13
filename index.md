@@ -1,1 +1,5 @@
-# <h6> Washup <h6>
+# <h1> Whatsup! Look at the Dawg Below <h1>
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
+
+The dog is mad cute
