@@ -7,3 +7,6 @@ The dog is mad cute
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Do FinMath Hw
+- [ ] Study
+- [ ] Get my job
